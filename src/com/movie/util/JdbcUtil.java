@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 public class JdbcUtil {
 
-	private static String url = "jdbc:mysql://localhost:3306/graduation_movie2?useUnicode=true&characterEncoding=utf-8";
+	private static String url = "jdbc:mysql://localhost:3306/graduation_194_movie2?useUnicode=true&characterEncoding=utf-8";
 	private static String username = "root";
 	private static String password = "123456";
 
